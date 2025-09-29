@@ -1,0 +1,3 @@
+C:\Users\sloan\IdeaProjects\MP3Player\src\assets\All For Me.mp3
+C:\Users\sloan\IdeaProjects\MP3Player\src\assets\MAKE IT TO THE MORNING.mp3
+C:\Users\sloan\IdeaProjects\MP3Player\src\assets\Duvet.mp3
